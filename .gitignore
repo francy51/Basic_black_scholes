@@ -1,0 +1,26 @@
+/target
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Data files
+*_calls.csv
+*_puts.csv
+*_black_scholes_params.csv
+*.csv.gz
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

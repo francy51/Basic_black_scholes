@@ -1,0 +1,11 @@
+[package]
+name = "options_pricing"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+chrono = "0.4"
+csv = "1.3"
+plotters = "0.3.7"
+serde = { version = "1.0", features = ["derive"] }
+statrs = "0.17"
