@@ -16,6 +16,12 @@ ENV/
 *_black_scholes_params.csv
 *.csv.gz
 
+# Charts (generated)
+charts/
+
+# macOS
+.DS_Store
+
 # Jupyter Notebooks
 .ipynb_checkpoints
 
